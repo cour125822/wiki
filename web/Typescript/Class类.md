@@ -2,10 +2,10 @@
 title: Class类
 description: 
 published: true
-date: 2023-03-26T12:31:24.409Z
+date: 2023-03-26T08:06:04.069Z
 tags: 
 editor: markdown
-dateCreated: 2023-03-26T12:31:24.409Z
+dateCreated: 2023-03-26T07:47:27.798Z
 ---
 
 ES6提供了更接近传统语言的写法，引入了Class（类）这个概念，作为对象的模板。通过class关键字，可以定义类。基本上，ES6的class可以看作只是一个语法糖，它的绝大部分功能，ES5都可以做到，新的class写法只是让对象原型的写法更加清晰、更像面向对象编程的语法而已。上面的代码用ES6的“类”改写，就是下面这样。

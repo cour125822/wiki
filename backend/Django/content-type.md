@@ -2,7 +2,7 @@
 title: ContentType
 description: 
 published: true
-date: 2023-03-06T05:55:01.413Z
+date: 2023-03-26T08:03:54.647Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-26T08:30:03.493Z

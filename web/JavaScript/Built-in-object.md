@@ -2,7 +2,7 @@
 title: 内置对象
 description: 
 published: true
-date: 2023-03-06T03:14:42.846Z
+date: 2023-03-26T08:05:24.060Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-25T11:31:22.036Z

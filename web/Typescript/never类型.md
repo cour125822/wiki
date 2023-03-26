@@ -2,10 +2,10 @@
 title: never类型
 description: 
 published: true
-date: 2023-03-26T12:52:30.284Z
+date: 2023-03-26T08:06:05.610Z
 tags: 
 editor: markdown
-dateCreated: 2023-03-26T12:52:30.284Z
+dateCreated: 2023-03-26T07:47:30.099Z
 ---
 
 TypeScript 将使用 never 类型来表示不应该存在的状态(很抽象是不是)

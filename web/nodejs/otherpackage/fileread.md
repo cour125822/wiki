@@ -2,7 +2,7 @@
 title: File Read
 description: 
 published: true
-date: 2023-03-06T04:23:57.954Z
+date: 2023-03-26T08:10:10.769Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-26T02:28:15.814Z

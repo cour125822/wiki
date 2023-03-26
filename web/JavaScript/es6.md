@@ -2,7 +2,7 @@
 title: ES6
 description: 
 published: true
-date: 2023-03-06T03:13:52.314Z
+date: 2023-03-26T08:05:43.011Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-26T01:51:08.657Z

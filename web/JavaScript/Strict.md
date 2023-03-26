@@ -2,7 +2,7 @@
 title: 严格模式
 description: 
 published: true
-date: 2023-03-06T03:14:26.531Z
+date: 2023-03-26T08:05:28.588Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-25T11:32:52.406Z

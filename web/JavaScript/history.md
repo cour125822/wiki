@@ -2,13 +2,11 @@
 title: JavaScript历史
 description: 
 published: true
-date: 2023-03-08T07:45:58.892Z
+date: 2023-03-26T08:05:47.885Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-25T11:20:43.489Z
 ---
-
-
 
 # JavaScript的诞生
 

@@ -2,7 +2,7 @@
 title: CSS变量
 description: 
 published: true
-date: 2023-03-06T03:04:38.438Z
+date: 2023-03-26T08:07:01.402Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-25T10:58:26.554Z

@@ -2,7 +2,7 @@
 title: Vue Route
 description: 
 published: true
-date: 2023-03-06T04:32:11.198Z
+date: 2023-03-26T08:07:31.659Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-26T03:55:10.892Z

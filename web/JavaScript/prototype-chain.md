@@ -2,7 +2,7 @@
 title: 原型与原型链
 description: 
 published: true
-date: 2023-03-06T03:14:59.138Z
+date: 2023-03-26T08:05:59.218Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-25T11:30:18.157Z

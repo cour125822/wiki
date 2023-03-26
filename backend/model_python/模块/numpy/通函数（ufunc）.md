@@ -2,7 +2,7 @@
 title: 通函数（ufunc）
 description: 
 published: true
-date: 2023-03-14T02:25:34.411Z
+date: 2023-03-26T08:10:40.270Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-14T02:25:32.487Z

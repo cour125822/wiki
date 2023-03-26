@@ -2,7 +2,7 @@
 title: Ajax
 description: 
 published: true
-date: 2023-03-06T05:54:35.144Z
+date: 2023-03-26T08:03:51.379Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-26T08:27:43.232Z

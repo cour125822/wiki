@@ -2,10 +2,10 @@
 title: symbol类型
 description: 
 published: true
-date: 2023-03-26T13:02:02.908Z
+date: 2023-03-26T08:06:07.224Z
 tags: 
 editor: markdown
-dateCreated: 2023-03-26T13:02:02.908Z
+dateCreated: 2023-03-26T07:47:32.344Z
 ---
 
 > https://www.tslang.cn/docs/handbook/symbols.html

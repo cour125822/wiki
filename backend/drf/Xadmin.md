@@ -2,7 +2,7 @@
 title: Xadmin
 description: 
 published: true
-date: 2023-03-06T05:40:57.584Z
+date: 2023-03-26T08:04:32.095Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-26T08:42:42.994Z

@@ -2,7 +2,7 @@
 title: Navigator
 description: 
 published: true
-date: 2023-03-06T04:02:25.321Z
+date: 2023-03-26T08:09:07.335Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-26T01:32:23.934Z

@@ -2,7 +2,7 @@
 title: Web Workers
 description: 
 published: true
-date: 2023-03-06T03:14:17.816Z
+date: 2023-03-26T08:05:30.131Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-25T11:35:39.351Z

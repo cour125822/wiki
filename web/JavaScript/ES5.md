@@ -2,7 +2,7 @@
 title: ES5
 description: 
 published: true
-date: 2023-03-06T03:13:43.162Z
+date: 2023-03-26T08:05:25.576Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-25T11:31:53.212Z

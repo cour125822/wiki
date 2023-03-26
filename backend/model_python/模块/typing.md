@@ -2,7 +2,7 @@
 title: typing
 description: 
 published: true
-date: 2023-03-06T05:32:06.841Z
+date: 2023-03-26T08:08:08.942Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-26T08:11:04.304Z

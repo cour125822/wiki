@@ -2,7 +2,7 @@
 title: Jquery
 description: 
 published: true
-date: 2023-03-06T04:20:01.185Z
+date: 2023-03-26T08:09:02.838Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-26T02:31:08.811Z

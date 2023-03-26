@@ -2,7 +2,7 @@
 title: ORM
 description: 
 published: true
-date: 2023-03-06T05:55:26.688Z
+date: 2023-03-26T08:04:01.708Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-26T08:27:13.321Z

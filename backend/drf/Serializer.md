@@ -2,7 +2,7 @@
 title: Serializer
 description: 
 published: true
-date: 2023-03-06T05:40:44.222Z
+date: 2023-03-26T08:04:30.466Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-26T08:35:20.687Z

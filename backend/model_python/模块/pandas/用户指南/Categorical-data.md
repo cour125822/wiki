@@ -2,7 +2,7 @@
 title: Categorical data
 description: 
 published: true
-date: 2023-03-15T03:32:07.056Z
+date: 2023-03-26T08:12:03.276Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-15T03:32:05.112Z
