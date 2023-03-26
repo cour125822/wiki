@@ -2,7 +2,7 @@
 title: Typescript
 description: 
 published: true
-date: 2023-03-06T00:26:37.623Z
+date: 2023-03-26T07:57:46.855Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-03T05:56:40.204Z
@@ -17,4 +17,7 @@ dateCreated: 2023-03-03T05:56:40.204Z
 
 # 学习目录
 
+[基础类型](/web/Typescript/基础类型)
+[顶级类型](/web/Typescript/顶级类型)[对象类型](/web/Typescript/对象类型)[数组类型](/web/Typescript/数组类型)[函数扩展](/web/Typescript/函数扩展)[内置对象](/web/Typescript/内置对象)[Class类](/web/Typescript/Class类)[元组类型](/web/Typescript/元组类型)[枚举类型](/web/Typescript/枚举类型)
+[类型推断、类型别名](/web/Typescript/类型推断、类型别名)[never类型](/web/Typescript/never类型)[symbol类型](/web/Typescript/symbol类型)[泛型](/web/Typescript/泛型)
 
