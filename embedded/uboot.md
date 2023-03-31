@@ -1,5 +1,5 @@
 ---
-title: {{title}}
+title: uboot
 description: 
 published: true
 date: 2023-03-26T08:03:14.697Z
